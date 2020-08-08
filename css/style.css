@@ -15,7 +15,7 @@
 }
 
 .parallax-window1 {
-    background-image: url("/img/b8.jpg");
+    background-image: url("https://katieliang.github.io/Personal-Portfolio/img/b8.jpg");
     height: 100%;
     background-attachment: fixed;
     background-position: center;
@@ -24,7 +24,7 @@
 }
 
 .parallax-window2 {
-    background-image: url("/img/b9.jpg");
+    background-image: url("https://katieliang.github.io/Personal-Portfolio/img/b9.jpg");
     height: 100%;
     background-attachment: fixed;
     background-position: center;
@@ -33,7 +33,7 @@
 }
 
 .parallax-window3 {
-    background-image: url("/img/b12.jpg");
+    background-image: url("https://katieliang.github.io/Personal-Portfolio/img/b12.jpg");
     height: 100%;
     background-attachment: fixed;
     background-position: center;
@@ -41,7 +41,7 @@
     background-size: cover;
 }
 .parallax-window4 {
-    background-image: url("/img/b13.jpg");
+    background-image: url("https://katieliang.github.io/Personal-Portfolio/img/b12.jpg");
     height: 100%;
     background-attachment: fixed;
     background-position: center;
@@ -86,4 +86,10 @@ padding-right: 5px;
 .right {
     width:80%;
     float: right;
+}
+
+html,
+body {
+    max-width: 100%;
+    overflow-x: hidden;
 }
